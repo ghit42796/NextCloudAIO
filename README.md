@@ -1,2 +1,2 @@
 # NextCloudAIO
-NextCloudAIO Docker Compose files
+NextCloudAIO Docker Compose files for Windows
